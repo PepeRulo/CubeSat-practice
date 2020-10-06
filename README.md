@@ -1,5 +1,5 @@
 # CubeSat-Practice
 
 Members (sign in):
-
-Joe McPherson (mcphersonj2)
+- Jose Pastrana (PepeRulo)
+- Joe McPherson2 (mcphersonj2)
