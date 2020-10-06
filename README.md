@@ -2,4 +2,4 @@
 
 Members (sign in):
 - Jose Pastrana (PepeRulo)
-- Joe McPherson2 (mcphersonj2)
+- Joe McPherson (mcphersonj2)
