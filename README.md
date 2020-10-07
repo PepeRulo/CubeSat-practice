@@ -5,3 +5,4 @@ Members (sign in):
 - Joe McPherson (mcphersonj2)
 - Average Joes Gym
 - Dasha Safarian (dsafarian)
+- Bentley Burnham (lhrbhb)
