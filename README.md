@@ -6,3 +6,4 @@ Members (sign in):
 - Average Joes Gym
 - Dasha Safarian (dsafarian)
 - Bentley Burnham (lhrbhb)
+- Jo Boff (johaneboff)
