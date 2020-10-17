@@ -7,5 +7,6 @@ Members (sign in):
 - Olivia Kaufmann (OliviaKaufmann)
 - Bentley Burnham (lhrbhb)
 - Jo Boff (johaneboff)
+- Raeba Ann Roy (raebaroy)
 - Finn Giddings (gidfd-22)
 - Kairos Wong (kairos310)
