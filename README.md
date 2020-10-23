@@ -10,3 +10,4 @@ Members (sign in):
 - Raeba Ann Roy (raebaroy)
 - Finn Giddings (gidfd-22)
 - Kairos Wong (kairos310)
+- Maria Vega (mvv19)
