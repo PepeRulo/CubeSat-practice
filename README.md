@@ -11,3 +11,4 @@ Members (sign in):
 - Finn Giddings (gidfd-22)
 - Kairos Wong (kairos310)
 - Maria Vega (mvv19)
+- Arnab Das (ADAS2024)
